@@ -1,3 +1,7 @@
+
+
+[![C Icon](https://ibb.co/JBtVCZf)](https://en.wikipedia.org/wiki/C_(programming_language))
+
 ### Assignments  
 -  → [**Assignment 1**](https://github.com/neriabd/ImageProcessing/tree/main/Assignment%201)
 <br> Detect scene cuts in video
