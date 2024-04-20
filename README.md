@@ -3,6 +3,7 @@
     <img src="https://github.com/neriabd/neriabd/blob/main/logos/ImageProcessing.png" alt="IMP Icon">
   </a>
 </p>
+
 ### Assignments  
 -  → [**Assignment 1**](https://github.com/neriabd/ImageProcessing/tree/main/Assignment%201)
 <br> Detect scene cuts in video.
