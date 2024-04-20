@@ -13,5 +13,5 @@
 <br> Image blending and crafting hybrid images
 <br><br>
 -  → [**Assignment 4**](https://github.com/neriabd/ImageProcessing/tree/main/Assignment%204)
-<br> blend between a low-resolution image and a high-resolution using homography
+<br> Blend between a low-resolution image and a high-resolution using homography
 <br><br> 
