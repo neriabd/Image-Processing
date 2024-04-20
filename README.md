@@ -1,6 +1,6 @@
 
 
-[![C Icon](https://ibb.co/JBtVCZf)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C Icon](https://github.com/neriabd/neriabd/blob/main/logos/Python.jpeg)](https://en.wikipedia.org/wiki/C_(programming_language))
 
 ### Assignments  
 -  → [**Assignment 1**](https://github.com/neriabd/ImageProcessing/tree/main/Assignment%201)
